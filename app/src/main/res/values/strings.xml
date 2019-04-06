@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostMemeSpammer3</string>
+
+    <string name="user_name">admin</string>
+    <string name="user_password">admin</string>
+    <string name="login_preference">task.project.PostMemeSpammer3_login_preference</string>
+    <string name="login_status_preference">task.project.PostMemeSpammer3_login_status_preference</string>
+</resources>
